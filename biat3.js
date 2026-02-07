@@ -9,7 +9,11 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
                     media : {word : 'Pessoas Negras'},
                     css : {color:'#31b404','font-size':'1.8em'},
                     height : 4,
-                    startStimulus : { media : {word : 'Negro, Afro, Preto, Africano'}, css : {color:'#31b404','font-size':'1em'}, height : 2 }
+                    startStimulus : { 
+                        media : {word : 'Negro, Afro, Preto, Africano'}, 
+                        css : {color:'#31b404','font-size':'1em'}, 
+                        height : 2 
+                    }
                 }, 
                 stimulusMedia : [ 
                     {word : 'Negro'}, {word : 'Afro'}, {word : 'Preto'}, {word : 'Africano'}, {word : 'Preta'}, {word : 'Afrodescendente'}
@@ -22,7 +26,11 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
                     media : {word : 'Pessoas Brancas'}, 
                     css : {color:'#31b404','font-size':'1.8em'}, 
                     height : 4,
-                    startStimulus : { media : {word : 'Branco, Caucasiano, Europeu, Claro'}, css : {color:'#31b404','font-size':'1em'}, height : 2 }
+                    startStimulus : { 
+                        media : {word : 'Branco, Caucasiano, Europeu, Claro'}, 
+                        css : {color:'#31b404','font-size':'1em'}, 
+                        height : 2 
+                    }
                 }, 
                 stimulusMedia : [ 
                     {word : 'Branco'}, {word : 'Caucasiano'}, {word : 'Europeu'}, {word : 'Claro'}, {word : 'Branca'}, {word : 'Caucasiana'}
